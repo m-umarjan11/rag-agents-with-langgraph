@@ -1,0 +1,42 @@
+# Web framework
+fastapi
+uvicorn[standard]
+
+# Pydantic for data validation
+pydantic
+pydantic-settings
+
+# PDF processing
+PyPDF2
+
+# Google AI
+google-generativeai
+
+# Vector database - Pinecone
+pinecone
+
+# LangChain (optional but recommended)
+langchain
+langchain-community
+
+# LangGraph for agent orchestration
+langgraph
+
+# Text processing
+numpy
+
+# HTTP client
+httpx
+
+# File handling
+python-multipart
+
+# Environment management
+python-dotenv
+
+# Development and testing
+pytest
+pytest-asyncio
+
+# Logging and monitoring
+structlog
