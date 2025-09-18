@@ -18,7 +18,7 @@ class Settings(BaseSettings):
     PINECONE_INDEX_NAME: str = "rag-index"
 
     # Google Gemini settings
-    GOOGLE_API_KEY: str = "AIzaSyBho0SF03grdMZO_l-K8Q6SqpUmNfmRqXg"
+    GOOGLE_API_KEY: str = ""
     GEMINI_MODEL: str = "gemini-2.0-flash-lite"
     EMBEDDING_MODEL: str = "gemini-embedding-001"
 
